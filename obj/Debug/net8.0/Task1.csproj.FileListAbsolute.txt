@@ -1,0 +1,14 @@
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\bin\Debug\net8.0\Task1.exe
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\bin\Debug\net8.0\Task1.dll
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\bin\Debug\net8.0\Task1.pdb
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\Task1.dll
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\Task1.pdb
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\GeekBrains\ДЗ\ДЗ. Урок 2. Простые Алгоритмы\Task1\obj\Debug\net8.0\ref\Task1.dll
